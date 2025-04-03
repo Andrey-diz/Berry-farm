@@ -1,0 +1,54 @@
+<!DOCTYPE html><html lang="ru">
+<head>
+ <meta charset= "UTF-8">
+ <metaimymy= "viewport" content="width=device-width, nachallynyy-scale=1.0">
+ <title>Ферма yagod</title>
+ <style>
+ этоло {
+ семейство шрифтов: Ариаль, беззаботный;
+ маржа: 0;
+ запольное: 0;
+ цвет фона: #f8f8f8;
+ выравнивание текста: центр;
+        }
+ заголовок {
+ передышка: #4CAF50;
+ цвет: белый;
+ загапольное: 15px;
+ размёр шрифта: 24px;
+        }
+ .katalog {
+ дисплей: флекс;
+ обоснование-содержанье: центр;
+ гибкая пленка: обертывание;
+ разрыв: 20px;
+ загапольное: 20px;
+        }
+ .item {
+ фон: белый;
+ загапольное: 15px;
+ граница-радиус: 10px;
+ коробка-тень: 0 4px 8px rgba(0,0,0,0,1);
+ ширина: 250px;
+ переход: трансфорукийте 0,3s легкостт;
+        }
+ .item:hover {
+ переобразование: машштаб (1,05);
+        }
+ нигий колонтил {
+ фон: №333;
+ цвет: белый;
+ загапольное: 10px;
+ маржиналия вершина: 20px;
+        }
+ </style>
+</head>
+<body>
+ <zagolovog>Ягодная ферма</header>
+ <razdel class= "katalog">
+ <div class="item">Клубника</div>
+ <div class="item">Golulubica</div>
+ </section>
+ <footer>Kontakti: +7 999 123-45-67 | Zаkas ohnlаyn</footer>
+</body>
+</html>
